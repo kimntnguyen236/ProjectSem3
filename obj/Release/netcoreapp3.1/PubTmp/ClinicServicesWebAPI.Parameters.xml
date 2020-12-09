@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Lab520201109112341" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\AptechSem3\\Project\\ProjectSem3-ClinicManagement-master\\ClinicServicesWebAPI\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
